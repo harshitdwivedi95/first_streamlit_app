@@ -15,7 +15,7 @@ streamlit.dataframe(my_fruit_list)
 
 
 
-streamlit.title('My mom's new healthy dinner')
+streamlit.title("My mom's new healthy dinner")
 
 streamlit.header('Breakfast favorites')
 streamlit.text('Omega 3 & blueberry oatmeal')
